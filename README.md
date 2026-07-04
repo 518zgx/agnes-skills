@@ -1,6 +1,6 @@
 # Agnes AI Skills
 
-基于 Agnes AI 的图像和视频生成技能集合，用于 TRAE IDE 环境。
+基于 Agnes AI 的图像和视频生成技能集合
 
 ## 技能列表
 
